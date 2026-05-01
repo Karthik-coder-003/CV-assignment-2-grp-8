@@ -1,5 +1,6 @@
 # Virtual Environment
 cvenv/
+.venv/
 venv/
 env/
 .env
@@ -8,6 +9,8 @@ env/
 __pycache__/
 *.py[cod]
 *$py.class
+*.pyo
+*.pyd
 *.so
 .Python
 build/
@@ -26,6 +29,9 @@ wheels/
 .installed.cfg
 *.egg
 
+# uv cache
+.uv/
+
 # IDE
 .vscode/
 .idea/
@@ -40,3 +46,23 @@ Thumbs.db
 # Project specific
 .cache/
 temp/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+>>>>>>> c1a0d83fbdb4e9d6919617769a4bdb9bea1b5e8d
+
+# OS
+.DS_Store
+Thumbs.db
+
+<<<<<<< HEAD
+# Project specific
+.cache/
+temp/
+=======
+# IDE
+.vscode/
+.idea/
+*.swp
+>>>>>>> c1a0d83fbdb4e9d6919617769a4bdb9bea1b5e8d

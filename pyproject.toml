@@ -1,0 +1,9 @@
+[project]
+name = "cv-assignment-2-grp-8"
+version = "0.1.0"
+description = "Computer Vision Assignment 2 - Group 8"
+requires-python = ">=3.10"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
