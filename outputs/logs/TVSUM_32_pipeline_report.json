@@ -1,0 +1,9 @@
+{
+  "video_id": "TVSUM_32",
+  "agreement": {
+    "video_id": "TVSUM_32",
+    "error": "Need 2 annotation files"
+  },
+  "n_candidate_events": 0,
+  "summary_info": {}
+}
