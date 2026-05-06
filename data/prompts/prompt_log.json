@@ -1,0 +1,222 @@
+[
+  {
+    "video_id": "TVSUM_29",
+    "model_name": "HuggingFaceTB/SmolVLM2-2.2B-Instruct",
+    "strategy_name": "smol_uniform_a",
+    "prompt_text": "Retrieve all salient events of the video in chronological order. Return only a numbered list. Each event should be one short sentence.",
+    "extra": {
+      "sampling": "uniform",
+      "num_frames": 16,
+      "chunked": false
+    }
+  },
+  {
+    "video_id": "TVSUM_29",
+    "model_name": "HuggingFaceTB/SmolVLM2-2.2B-Instruct",
+    "strategy_name": "smol_segment_b",
+    "prompt_text": "Return only the events necessary to understand the video. Keep them chronological and concise in numbered format.",
+    "extra": {
+      "sampling": "segmented",
+      "num_frames": 16,
+      "chunked": true
+    }
+  },
+  {
+    "video_id": "TVSUM_29",
+    "model_name": "HuggingFaceTB/SmolVLM2-2.2B-Instruct",
+    "strategy_name": "smol_uniform_a",
+    "prompt_text": "Retrieve all salient events of the video in chronological order. Return only a numbered list. Each event should be one short sentence.",
+    "extra": {
+      "sampling": "uniform",
+      "num_frames": 16,
+      "chunked": false
+    }
+  },
+  {
+    "video_id": "TVSUM_29",
+    "model_name": "HuggingFaceTB/SmolVLM2-2.2B-Instruct",
+    "strategy_name": "smol_uniform_a",
+    "prompt_text": "Retrieve all salient events of the video in chronological order. Return only a numbered list. Each event should be one short sentence.",
+    "extra": {
+      "sampling": "uniform",
+      "num_frames": 16,
+      "chunked": false
+    }
+  },
+  {
+    "video_id": "TVSUM_29",
+    "model_name": "HuggingFaceTB/SmolVLM2-2.2B-Instruct",
+    "strategy_name": "smol_segment_b",
+    "prompt_text": "Return only the events necessary to understand the video. Keep them chronological and concise in numbered format.",
+    "extra": {
+      "sampling": "segmented",
+      "num_frames": 16,
+      "chunked": true
+    }
+  },
+  {
+    "video_id": "TVSUM_29",
+    "model_name": "HuggingFaceTB/SmolVLM2-2.2B-Instruct",
+    "strategy_name": "smol_segment_b",
+    "prompt_text": "Return only the events necessary to understand the video. Keep them chronological and concise in numbered format.",
+    "extra": {
+      "sampling": "segmented",
+      "num_frames": 16,
+      "chunked": true
+    }
+  },
+  {
+    "video_id": "TVSUM_29",
+    "model_name": "HuggingFaceTB/SmolVLM2-2.2B-Instruct",
+    "strategy_name": "smol_uniform_a",
+    "prompt_text": "Retrieve all salient events of the video in chronological order. Return only a numbered list. Each event should be one short sentence.",
+    "extra": {
+      "sampling": "uniform",
+      "num_frames": 16,
+      "chunked": false
+    }
+  },
+  {
+    "video_id": "TVSUM_29",
+    "model_name": "HuggingFaceTB/SmolVLM2-2.2B-Instruct",
+    "strategy_name": "smol_uniform_a",
+    "prompt_text": "Retrieve all salient events of the video in chronological order. Return only a numbered list. Each event should be one short sentence.",
+    "extra": {
+      "sampling": "uniform",
+      "num_frames": 16,
+      "chunked": false
+    }
+  },
+  {
+    "video_id": "TVSUM_29",
+    "model_name": "HuggingFaceTB/SmolVLM2-2.2B-Instruct",
+    "strategy_name": "smol_uniform_a",
+    "prompt_text": "Retrieve all salient events of the video in chronological order. Return only a numbered list. Each event should be one short sentence.",
+    "extra": {
+      "sampling": "uniform",
+      "num_frames": 16,
+      "chunked": false
+    }
+  },
+  {
+    "video_id": "TVSUM_29",
+    "model_name": "HuggingFaceTB/SmolVLM2-2.2B-Instruct",
+    "strategy_name": "smol_segment_b",
+    "prompt_text": "Return only the events necessary to understand the video. Keep them chronological and concise in numbered format.",
+    "extra": {
+      "sampling": "segmented",
+      "num_frames": 16,
+      "chunked": true
+    }
+  },
+  {
+    "video_id": "TVSUM_29",
+    "model_name": "HuggingFaceTB/SmolVLM2-2.2B-Instruct",
+    "strategy_name": "smol_uniform_c",
+    "prompt_text": "Return a numbered chronological list of salient events with approximate timestamps in the form: Event (MM:SS - MM:SS).",
+    "extra": {
+      "sampling": "uniform",
+      "num_frames": 16,
+      "chunked": false
+    }
+  },
+  {
+    "video_id": "TVSUM_30",
+    "model_name": "HuggingFaceTB/SmolVLM2-2.2B-Instruct",
+    "strategy_name": "smol_uniform_a",
+    "prompt_text": "Retrieve all salient events of the video in chronological order. Return only a numbered list. Each event should be one short sentence.",
+    "extra": {
+      "sampling": "uniform",
+      "num_frames": 16,
+      "chunked": false
+    }
+  },
+  {
+    "video_id": "TVSUM_30",
+    "model_name": "HuggingFaceTB/SmolVLM2-2.2B-Instruct",
+    "strategy_name": "smol_segment_b",
+    "prompt_text": "Return only the events necessary to understand the video. Keep them chronological and concise in numbered format.",
+    "extra": {
+      "sampling": "segmented",
+      "num_frames": 16,
+      "chunked": true
+    }
+  },
+  {
+    "video_id": "TVSUM_30",
+    "model_name": "HuggingFaceTB/SmolVLM2-2.2B-Instruct",
+    "strategy_name": "smol_uniform_c",
+    "prompt_text": "Return a numbered chronological list of salient events with approximate timestamps in the form: Event (MM:SS - MM:SS).",
+    "extra": {
+      "sampling": "uniform",
+      "num_frames": 16,
+      "chunked": false
+    }
+  },
+  {
+    "video_id": "TVSUM_31",
+    "model_name": "HuggingFaceTB/SmolVLM2-2.2B-Instruct",
+    "strategy_name": "smol_uniform_a",
+    "prompt_text": "Retrieve all salient events of the video in chronological order. Return only a numbered list. Each event should be one short sentence.",
+    "extra": {
+      "sampling": "uniform",
+      "num_frames": 16,
+      "chunked": false
+    }
+  },
+  {
+    "video_id": "TVSUM_31",
+    "model_name": "HuggingFaceTB/SmolVLM2-2.2B-Instruct",
+    "strategy_name": "smol_segment_b",
+    "prompt_text": "Return only the events necessary to understand the video. Keep them chronological and concise in numbered format.",
+    "extra": {
+      "sampling": "segmented",
+      "num_frames": 16,
+      "chunked": true
+    }
+  },
+  {
+    "video_id": "TVSUM_31",
+    "model_name": "HuggingFaceTB/SmolVLM2-2.2B-Instruct",
+    "strategy_name": "smol_uniform_c",
+    "prompt_text": "Return a numbered chronological list of salient events with approximate timestamps in the form: Event (MM:SS - MM:SS).",
+    "extra": {
+      "sampling": "uniform",
+      "num_frames": 16,
+      "chunked": false
+    }
+  },
+  {
+    "video_id": "TVSUM_32",
+    "model_name": "HuggingFaceTB/SmolVLM2-2.2B-Instruct",
+    "strategy_name": "smol_uniform_a",
+    "prompt_text": "Retrieve all salient events of the video in chronological order. Return only a numbered list. Each event should be one short sentence.",
+    "extra": {
+      "sampling": "uniform",
+      "num_frames": 16,
+      "chunked": false
+    }
+  },
+  {
+    "video_id": "TVSUM_32",
+    "model_name": "HuggingFaceTB/SmolVLM2-2.2B-Instruct",
+    "strategy_name": "smol_segment_b",
+    "prompt_text": "Return only the events necessary to understand the video. Keep them chronological and concise in numbered format.",
+    "extra": {
+      "sampling": "segmented",
+      "num_frames": 16,
+      "chunked": true
+    }
+  },
+  {
+    "video_id": "TVSUM_32",
+    "model_name": "HuggingFaceTB/SmolVLM2-2.2B-Instruct",
+    "strategy_name": "smol_uniform_c",
+    "prompt_text": "Return a numbered chronological list of salient events with approximate timestamps in the form: Event (MM:SS - MM:SS).",
+    "extra": {
+      "sampling": "uniform",
+      "num_frames": 16,
+      "chunked": false
+    }
+  }
+]

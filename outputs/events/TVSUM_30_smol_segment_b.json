@@ -1,0 +1,27 @@
+{
+  "raw_output": "User:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReturn only the events necessary to understand the video. Keep them chronological and concise in numbered format.\nAssistant: cropped-------",
+  "parsed_events": [],
+  "parsed_events_with_ts": [],
+  "frame_times": [
+    0.0,
+    10.4402494375,
+    20.880498875,
+    31.3207483125,
+    41.76099775,
+    52.2012471875,
+    62.641496625,
+    73.0817460625,
+    83.5219955,
+    93.9622449375,
+    104.402494375,
+    114.8427438125,
+    125.28299325,
+    135.7232426875,
+    146.163492125,
+    156.6037415625
+  ],
+  "video_id": "TVSUM_30",
+  "model_name": "HuggingFaceTB/SmolVLM2-2.2B-Instruct",
+  "strategy_name": "smol_segment_b",
+  "prompt_key": "prompt_b"
+}

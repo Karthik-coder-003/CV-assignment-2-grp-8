@@ -1,0 +1,27 @@
+{
+  "raw_output": "User:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRetrieve all salient events of the video in chronological order. Return only a numbered list. Each event should be one short sentence.\nAssistant:",
+  "parsed_events": [],
+  "parsed_events_with_ts": [],
+  "frame_times": [
+    0.0,
+    11.094416666666666,
+    22.230541666666664,
+    33.36666666666667,
+    44.50279166666667,
+    55.63891666666666,
+    66.77504166666667,
+    77.91116666666666,
+    89.04729166666667,
+    100.18341666666666,
+    111.31954166666665,
+    122.45566666666666,
+    133.59179166666667,
+    144.72791666666666,
+    155.86404166666665,
+    167.00016666666664
+  ],
+  "video_id": "TVSUM_30",
+  "model_name": "HuggingFaceTB/SmolVLM2-2.2B-Instruct",
+  "strategy_name": "smol_uniform_a",
+  "prompt_key": "prompt_a"
+}

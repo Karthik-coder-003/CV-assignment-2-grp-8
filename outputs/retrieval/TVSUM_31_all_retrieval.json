@@ -1,1 +1,335 @@
-[]
+[
+  {
+    "start": 50.0,
+    "end": 54.0,
+    "score": 0.01,
+    "query": "the event in which the 'silence is betrayal' campaign opens with a powerful introduction setting the stage for the sydney flash mob for syria",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "The 'Silence is Betrayal' campaign opens with a powerful introduction setting the stage for the Sydney Flash Mob for Syria",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 58.0,
+    "end": 62.0,
+    "score": 0.01,
+    "query": "video segment showing the 'silence is betrayal' campaign opens with a powerful introduction setting the stage for the sydney flash mob for syria",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "The 'Silence is Betrayal' campaign opens with a powerful introduction setting the stage for the Sydney Flash Mob for Syria",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 73.0,
+    "end": 77.0,
+    "score": 0.01,
+    "query": "the moment when the 'silence is betrayal' campaign opens with a powerful introduction setting the stage for the sydney flash mob for syria",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "The 'Silence is Betrayal' campaign opens with a powerful introduction setting the stage for the Sydney Flash Mob for Syria",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 82.0,
+    "end": 86.0,
+    "score": 0.01,
+    "query": "The 'Silence is Betrayal' campaign opens with a powerful introduction setting the stage for the Sydney Flash Mob for Syria",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "The 'Silence is Betrayal' campaign opens with a powerful introduction setting the stage for the Sydney Flash Mob for Syria",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 188.0,
+    "end": 192.0,
+    "score": 0.01,
+    "query": "a scene where the 'silence is betrayal' campaign opens with a powerful introduction setting the stage for the sydney flash mob for syria",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "The 'Silence is Betrayal' campaign opens with a powerful introduction setting the stage for the Sydney Flash Mob for Syria",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 18.0,
+    "end": 22.0,
+    "score": 0.01,
+    "query": "the event in which performers freeze in a human statue formation to depict the suffering and loss of life during the conflict",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "Performers freeze in a human statue formation to depict the suffering and loss of life during the conflict",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 75.0,
+    "end": 79.0,
+    "score": 0.01,
+    "query": "video segment showing performers freeze in a human statue formation to depict the suffering and loss of life during the conflict",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "Performers freeze in a human statue formation to depict the suffering and loss of life during the conflict",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 138.0,
+    "end": 142.0,
+    "score": 0.01,
+    "query": "the moment when performers freeze in a human statue formation to depict the suffering and loss of life during the conflict",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "Performers freeze in a human statue formation to depict the suffering and loss of life during the conflict",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 185.0,
+    "end": 189.0,
+    "score": 0.01,
+    "query": "Performers freeze in a human statue formation to depict the suffering and loss of life during the conflict",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "Performers freeze in a human statue formation to depict the suffering and loss of life during the conflict",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 197.0,
+    "end": 201.0,
+    "score": 0.01,
+    "query": "a scene where performers freeze in a human statue formation to depict the suffering and loss of life during the conflict",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "Performers freeze in a human statue formation to depict the suffering and loss of life during the conflict",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 0.0,
+    "end": 4.0,
+    "score": 0.01,
+    "query": "the event in which a scene shows mothers holding their children to represent the emotional toll on families affected by the conflict",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "A scene shows mothers holding their children to represent the emotional toll on families affected by the conflict",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 60.0,
+    "end": 64.0,
+    "score": 0.01,
+    "query": "video segment showing a scene shows mothers holding their children to represent the emotional toll on families affected by the conflict",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "A scene shows mothers holding their children to represent the emotional toll on families affected by the conflict",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 125.0,
+    "end": 129.0,
+    "score": 0.01,
+    "query": "A scene shows mothers holding their children to represent the emotional toll on families affected by the conflict",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "A scene shows mothers holding their children to represent the emotional toll on families affected by the conflict",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 157.0,
+    "end": 161.0,
+    "score": 0.01,
+    "query": "a scene where a scene shows mothers holding their children to represent the emotional toll on families affected by the conflict",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "A scene shows mothers holding their children to represent the emotional toll on families affected by the conflict",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 203.0,
+    "end": 207.0,
+    "score": 0.01,
+    "query": "the moment when a scene shows mothers holding their children to represent the emotional toll on families affected by the conflict",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "A scene shows mothers holding their children to represent the emotional toll on families affected by the conflict",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 42.0,
+    "end": 46.0,
+    "score": 0.01,
+    "query": "The camera captures the crowd's somber reaction as onlookers process the intense message",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "The camera captures the crowd's somber reaction as onlookers process the intense message",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 107.0,
+    "end": 112.0,
+    "score": 0.01,
+    "query": "a scene where the camera captures the crowd's somber reaction as onlookers process the intense message",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "The camera captures the crowd's somber reaction as onlookers process the intense message",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 157.0,
+    "end": 161.0,
+    "score": 0.01,
+    "query": "video segment showing the camera captures the crowd's somber reaction as onlookers process the intense message",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "The camera captures the crowd's somber reaction as onlookers process the intense message",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 169.0,
+    "end": 173.0,
+    "score": 0.01,
+    "query": "the moment when the camera captures the crowd's somber reaction as onlookers process the intense message",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "The camera captures the crowd's somber reaction as onlookers process the intense message",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 98.0,
+    "end": 102.0,
+    "score": 0.01,
+    "query": "the event in which protesters hold up 'free syria' signs and refugee posters, while some participants kneel in prayer to represent hope and solidarity",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "Protesters hold up 'Free Syria' signs and refugee posters, while some participants kneel in prayer to represent hope and solidarity",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 126.0,
+    "end": 130.0,
+    "score": 0.01,
+    "query": "Protesters hold up 'Free Syria' signs and refugee posters, while some participants kneel in prayer to represent hope and solidarity",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "Protesters hold up 'Free Syria' signs and refugee posters, while some participants kneel in prayer to represent hope and solidarity",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 149.0,
+    "end": 153.0,
+    "score": 0.01,
+    "query": "the moment when protesters hold up 'free syria' signs and refugee posters, while some participants kneel in prayer to represent hope and solidarity",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "Protesters hold up 'Free Syria' signs and refugee posters, while some participants kneel in prayer to represent hope and solidarity",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 165.0,
+    "end": 169.0,
+    "score": 0.01,
+    "query": "video segment showing protesters hold up 'free syria' signs and refugee posters, while some participants kneel in prayer to represent hope and solidarity",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "Protesters hold up 'Free Syria' signs and refugee posters, while some participants kneel in prayer to represent hope and solidarity",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 200.0,
+    "end": 204.0,
+    "score": 0.01,
+    "query": "a scene where protesters hold up 'free syria' signs and refugee posters, while some participants kneel in prayer to represent hope and solidarity",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "Protesters hold up 'Free Syria' signs and refugee posters, while some participants kneel in prayer to represent hope and solidarity",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 27.0,
+    "end": 31.0,
+    "score": 0.01,
+    "query": "A group stands in silence with eyes closed, symbolizing the world's blindness to the ongoing conflict",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "A group stands in silence with eyes closed, symbolizing the world's blindness to the ongoing conflict",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 41.0,
+    "end": 45.0,
+    "score": 0.01,
+    "query": "video segment showing a group stands in silence with eyes closed, symbolizing the world's blindness to the ongoing conflict",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "A group stands in silence with eyes closed, symbolizing the world's blindness to the ongoing conflict",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 76.0,
+    "end": 80.0,
+    "score": 0.01,
+    "query": "the event in which a group stands in silence with eyes closed, symbolizing the world's blindness to the ongoing conflict",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "A group stands in silence with eyes closed, symbolizing the world's blindness to the ongoing conflict",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 86.0,
+    "end": 93.0,
+    "score": 0.01,
+    "query": "a scene where a group stands in silence with eyes closed, symbolizing the world's blindness to the ongoing conflict",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "A group stands in silence with eyes closed, symbolizing the world's blindness to the ongoing conflict",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 97.0,
+    "end": 101.0,
+    "score": 0.01,
+    "query": "the event in which performers fall to the ground as symbolic shooters target the group, representing the loss of life in the conflict",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "Performers fall to the ground as symbolic shooters target the group, representing the loss of life in the conflict",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 153.0,
+    "end": 158.0,
+    "score": 0.01,
+    "query": "video segment showing performers fall to the ground as symbolic shooters target the group, representing the loss of life in the conflict",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "Performers fall to the ground as symbolic shooters target the group, representing the loss of life in the conflict",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 164.0,
+    "end": 168.0,
+    "score": 0.01,
+    "query": "the moment when performers fall to the ground as symbolic shooters target the group, representing the loss of life in the conflict",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "Performers fall to the ground as symbolic shooters target the group, representing the loss of life in the conflict",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 183.0,
+    "end": 187.0,
+    "score": 0.01,
+    "query": "Performers fall to the ground as symbolic shooters target the group, representing the loss of life in the conflict",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "Performers fall to the ground as symbolic shooters target the group, representing the loss of life in the conflict",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 98.0,
+    "end": 102.0,
+    "score": 0.01,
+    "query": "The flash mob concludes with the 'Silence is Betrayal' poster as a final call to action against global indifference",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "The flash mob concludes with the 'Silence is Betrayal' poster as a final call to action against global indifference",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 108.0,
+    "end": 112.0,
+    "score": 0.01,
+    "query": "the moment when the flash mob concludes with the 'silence is betrayal' poster as a final call to action against global indifference",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "The flash mob concludes with the 'Silence is Betrayal' poster as a final call to action against global indifference",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 165.0,
+    "end": 169.0,
+    "score": 0.01,
+    "query": "the event in which the flash mob concludes with the 'silence is betrayal' poster as a final call to action against global indifference",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "The flash mob concludes with the 'Silence is Betrayal' poster as a final call to action against global indifference",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 191.0,
+    "end": 195.0,
+    "score": 0.01,
+    "query": "video segment showing the flash mob concludes with the 'silence is betrayal' poster as a final call to action against global indifference",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "The flash mob concludes with the 'Silence is Betrayal' poster as a final call to action against global indifference",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 203.0,
+    "end": 207.0,
+    "score": 0.01,
+    "query": "a scene where the flash mob concludes with the 'silence is betrayal' poster as a final call to action against global indifference",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "The flash mob concludes with the 'Silence is Betrayal' poster as a final call to action against global indifference",
+    "backend": "Moment-DETR"
+  }
+]

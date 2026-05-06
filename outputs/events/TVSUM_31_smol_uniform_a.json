@@ -1,0 +1,27 @@
+{
+  "raw_output": "User:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRetrieve all salient events of the video in chronological order. Return only a numbered list. Each event should be one short sentence.\nAssistant:_- cropped- cropped---_-- cropped cland controvers controvers controvers cland cland controvers engraved cropped-_- squee cland controvers controvers controvers controvers controvers controvers squee engraved---- squee cland controvers controvers controvers controvers controvers cropped-",
+  "parsed_events": [],
+  "parsed_events_with_ts": [],
+  "frame_times": [
+    0.0,
+    14.4,
+    28.84,
+    43.28,
+    57.68,
+    72.12,
+    86.56,
+    101.0,
+    115.4,
+    129.84,
+    144.28,
+    158.72,
+    173.12,
+    187.56,
+    202.0,
+    216.44
+  ],
+  "video_id": "TVSUM_31",
+  "model_name": "HuggingFaceTB/SmolVLM2-2.2B-Instruct",
+  "strategy_name": "smol_uniform_a",
+  "prompt_key": "prompt_a"
+}

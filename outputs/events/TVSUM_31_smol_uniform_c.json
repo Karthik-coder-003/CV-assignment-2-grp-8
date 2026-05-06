@@ -1,0 +1,27 @@
+{
+  "raw_output": "User:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReturn a numbered chronological list of salient events with approximate timestamps in the form: Event (MM:SS - MM:SS).\nAssistant:_- cropped- squee--_-_- squee cland cland cland cland cland cland cland controvers engraved-_- squee cland controvers controvers controvers controvers controvers controvers squee engraved---- cropped HOLD cland cland cland cland cland cropped-",
+  "parsed_events": [],
+  "parsed_events_with_ts": [],
+  "frame_times": [
+    0.0,
+    14.4,
+    28.84,
+    43.28,
+    57.68,
+    72.12,
+    86.56,
+    101.0,
+    115.4,
+    129.84,
+    144.28,
+    158.72,
+    173.12,
+    187.56,
+    202.0,
+    216.44
+  ],
+  "video_id": "TVSUM_31",
+  "model_name": "HuggingFaceTB/SmolVLM2-2.2B-Instruct",
+  "strategy_name": "smol_uniform_c",
+  "prompt_key": "prompt_c"
+}

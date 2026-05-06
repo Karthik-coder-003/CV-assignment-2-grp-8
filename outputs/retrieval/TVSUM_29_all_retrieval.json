@@ -1,1 +1,227 @@
-[]
+[
+  {
+    "start": 152.0,
+    "end": 156.0,
+    "score": 0.01,
+    "query": "The host introduces the Chinese New Year parade in Vancouver's Chinatown on Feb 10th",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "The host introduces the Chinese New Year parade in Vancouver's Chinatown on Feb 10th",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 190.0,
+    "end": 194.0,
+    "score": 0.01,
+    "query": "the moment when the host introduces the chinese new year parade in vancouver's chinatown on feb 10th",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "The host introduces the Chinese New Year parade in Vancouver's Chinatown on Feb 10th",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 268.0,
+    "end": 272.0,
+    "score": 0.01,
+    "query": "video segment showing the host introduces the chinese new year parade in vancouver's chinatown on feb 10th",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "The host introduces the Chinese New Year parade in Vancouver's Chinatown on Feb 10th",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 319.0,
+    "end": 323.0,
+    "score": 0.01,
+    "query": "the event in which the host introduces the chinese new year parade in vancouver's chinatown on feb 10th",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "The host introduces the Chinese New Year parade in Vancouver's Chinatown on Feb 10th",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 553.0,
+    "end": 557.0,
+    "score": 0.01,
+    "query": "a scene where the host introduces the chinese new year parade in vancouver's chinatown on feb 10th",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "The host introduces the Chinese New Year parade in Vancouver's Chinatown on Feb 10th",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 80.0,
+    "end": 84.0,
+    "score": 0.01,
+    "query": "a scene where a traditional dragon dance moves through the streets along the main parade route",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "A traditional dragon dance moves through the streets along the main parade route",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 91.0,
+    "end": 95.0,
+    "score": 0.01,
+    "query": "A traditional dragon dance moves through the streets along the main parade route",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "A traditional dragon dance moves through the streets along the main parade route",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 218.0,
+    "end": 222.0,
+    "score": 0.01,
+    "query": "video segment showing a traditional dragon dance moves through the streets along the main parade route",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "A traditional dragon dance moves through the streets along the main parade route",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 291.0,
+    "end": 295.0,
+    "score": 0.01,
+    "query": "the moment when a traditional dragon dance moves through the streets along the main parade route",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "A traditional dragon dance moves through the streets along the main parade route",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 459.0,
+    "end": 463.0,
+    "score": 0.01,
+    "query": "the event in which a traditional dragon dance moves through the streets along the main parade route",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "A traditional dragon dance moves through the streets along the main parade route",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 4.0,
+    "end": 8.0,
+    "score": 0.01,
+    "query": "video segment showing a group of dancers performs an elegant walking procession",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "A group of dancers performs an elegant walking procession",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 123.0,
+    "end": 127.0,
+    "score": 0.01,
+    "query": "the event in which a group of dancers performs an elegant walking procession",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "A group of dancers performs an elegant walking procession",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 262.0,
+    "end": 266.0,
+    "score": 0.01,
+    "query": "the moment when a group of dancers performs an elegant walking procession",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "A group of dancers performs an elegant walking procession",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 295.0,
+    "end": 299.0,
+    "score": 0.01,
+    "query": "a scene where a group of dancers performs an elegant walking procession",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "A group of dancers performs an elegant walking procession",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 366.0,
+    "end": 370.0,
+    "score": 0.01,
+    "query": "A group of dancers performs an elegant walking procession",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "A group of dancers performs an elegant walking procession",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 42.0,
+    "end": 46.0,
+    "score": 0.01,
+    "query": "video segment showing a dance crew performs formation using traditional chinese hand fans",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "A dance crew performs formation using traditional Chinese hand fans",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 58.0,
+    "end": 62.0,
+    "score": 0.01,
+    "query": "the event in which a dance crew performs formation using traditional chinese hand fans",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "A dance crew performs formation using traditional Chinese hand fans",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 109.0,
+    "end": 113.0,
+    "score": 0.01,
+    "query": "A dance crew performs formation using traditional Chinese hand fans",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "A dance crew performs formation using traditional Chinese hand fans",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 126.0,
+    "end": 130.0,
+    "score": 0.01,
+    "query": "the moment when a dance crew performs formation using traditional chinese hand fans",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "A dance crew performs formation using traditional Chinese hand fans",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 393.0,
+    "end": 397.0,
+    "score": 0.01,
+    "query": "a scene where a dance crew performs formation using traditional chinese hand fans",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "A dance crew performs formation using traditional Chinese hand fans",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 73.0,
+    "end": 77.0,
+    "score": 0.01,
+    "query": "the moment when the host captures the vibe, highlights the energy and the historical depth of the event",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "The host captures the vibe, highlights the energy and the historical depth of the event",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 158.0,
+    "end": 162.0,
+    "score": 0.01,
+    "query": "The host captures the vibe, highlights the energy and the historical depth of the event",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "The host captures the vibe, highlights the energy and the historical depth of the event",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 257.0,
+    "end": 261.0,
+    "score": 0.01,
+    "query": "video segment showing the host captures the vibe, highlights the energy and the historical depth of the event",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "The host captures the vibe, highlights the energy and the historical depth of the event",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 474.0,
+    "end": 478.0,
+    "score": 0.01,
+    "query": "a scene where the host captures the vibe, highlights the energy and the historical depth of the event",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "The host captures the vibe, highlights the energy and the historical depth of the event",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 572.0,
+    "end": 576.0,
+    "score": 0.01,
+    "query": "the event in which the host captures the vibe, highlights the energy and the historical depth of the event",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "The host captures the vibe, highlights the energy and the historical depth of the event",
+    "backend": "Moment-DETR"
+  }
+]

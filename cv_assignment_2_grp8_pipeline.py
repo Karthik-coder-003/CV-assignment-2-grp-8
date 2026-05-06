@@ -69,13 +69,13 @@ print("Device:", DEVICE)
 # ─────────────────────────────────────────────
 # CELL 3 – Install (uncomment if needed)
 # ─────────────────────────────────────────────
-# import subprocess, sys
-# subprocess.run([sys.executable, "-m", "pip", "install", "-q",
-#     "transformers", "sentence-transformers", "av",
-#     "opencv-python", "pandas", "numpy", "scikit-learn"], check=True)
-# # For lighthouse (CG-DETR):
-# subprocess.run([sys.executable, "-m", "pip", "install", "-q",
-#     "git+https://github.com/line/lighthouse.git"], check=True)
+import subprocess, sys
+subprocess.run([sys.executable, "-m", "pip", "install", "-q",
+     "transformers", "sentence-transformers", "av",
+     "opencv-python", "pandas", "numpy", "scikit-learn"], check=True)
+    #For lighthouse (CG-DETR):
+        #subprocess.run([sys.executable, "-m", "pip", "install", "-q",
+        #"git+https://github.com/line/lighthouse.git"], check=True)
 
 
 # ─────────────────────────────────────────────

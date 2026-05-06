@@ -1,0 +1,7 @@
+file '/Users/ratrag/Library/CloudStorage/OneDrive-Personal/Maastricht Study/Semester 1/CV/Assignment/Second assignment/CV_assignment_2_grp_8/outputs/summaries/TVSUM_32/clip_01_00-19_00-23.mp4'
+file '/Users/ratrag/Library/CloudStorage/OneDrive-Personal/Maastricht Study/Semester 1/CV/Assignment/Second assignment/CV_assignment_2_grp_8/outputs/summaries/TVSUM_32/clip_02_00-40_00-44.mp4'
+file '/Users/ratrag/Library/CloudStorage/OneDrive-Personal/Maastricht Study/Semester 1/CV/Assignment/Second assignment/CV_assignment_2_grp_8/outputs/summaries/TVSUM_32/clip_03_00-58_01-02.mp4'
+file '/Users/ratrag/Library/CloudStorage/OneDrive-Personal/Maastricht Study/Semester 1/CV/Assignment/Second assignment/CV_assignment_2_grp_8/outputs/summaries/TVSUM_32/clip_04_01-09_01-13.mp4'
+file '/Users/ratrag/Library/CloudStorage/OneDrive-Personal/Maastricht Study/Semester 1/CV/Assignment/Second assignment/CV_assignment_2_grp_8/outputs/summaries/TVSUM_32/clip_05_01-28_01-32.mp4'
+file '/Users/ratrag/Library/CloudStorage/OneDrive-Personal/Maastricht Study/Semester 1/CV/Assignment/Second assignment/CV_assignment_2_grp_8/outputs/summaries/TVSUM_32/clip_06_01-36_01-40.mp4'
+file '/Users/ratrag/Library/CloudStorage/OneDrive-Personal/Maastricht Study/Semester 1/CV/Assignment/Second assignment/CV_assignment_2_grp_8/outputs/summaries/TVSUM_32/clip_07_01-49_01-53.mp4'

@@ -1,0 +1,27 @@
+{
+  "raw_output": "User:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReturn only the events necessary to understand the video. Keep them chronological and concise in numbered format.\nAssistant:-_- squee- cropped cropped cropped cropped-_--- squee cropped cland mischie cland mischie cland mischie cropped-",
+  "parsed_events": [],
+  "parsed_events_with_ts": [],
+  "frame_times": [
+    0.0,
+    36.6164370625,
+    73.232874125,
+    109.84931118749999,
+    146.46574825,
+    183.08218531249997,
+    219.69862237499999,
+    256.3150594375,
+    292.9314965,
+    329.54793356249996,
+    366.16437062499995,
+    402.7808076875,
+    439.39724474999997,
+    476.01368181249995,
+    512.630118875,
+    549.2465559374999
+  ],
+  "video_id": "TVSUM_29",
+  "model_name": "HuggingFaceTB/SmolVLM2-2.2B-Instruct",
+  "strategy_name": "smol_segment_b",
+  "prompt_key": "prompt_b"
+}

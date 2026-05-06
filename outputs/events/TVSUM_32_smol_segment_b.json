@@ -1,0 +1,27 @@
+{
+  "raw_output": "User:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReturn only the events necessary to understand the video. Keep them chronological and concise in numbered format.\nAssistant: mischie mischie mischie mischie cland mischie cland mischie cland mischie cland mischie cland mischie cland mischie cland mischie cland mischie cland mischie cland mischie cland mischie cland mischie cland mischie cland mischie cland mischie cland mischie cland mischie cland mischie cland mischie cland mischie cland mischie cland arous cland arous cland mischie cland mischie cland mischie cland mischie cland mischie cland mischie cland mischie cland mischie cland controvers cland cland cland mischie cland mischie cland arous cland arous cland mischie cland mischie cland mischie cland mischie cland cland cland arous cland mischie cland mischie cland mischie cland mischie cland mischie cland arous cland arous cland mischie cland mischie cland mischie cland mischie cland mischie cland cland cland cland cland cland mischie cland mischie cland mischie cland mischie cland mischie cland mischie cland mischie cland mischie cland mischie cland mischie cland mischie cland mischie cland cland mischie cland mischie cland cland cland cland cland cland arous panor cland mischie cland mischie cland cland cland cland cland cland cland cland cland cland cland cland cland cland cland cland cland cland cland cland cland cland cland cland mischie cland cland cland cland cland cland cland cland cland cland cland cland cland cland cland cland cland cland cland cland cland cland arous cland arous arous cland cland cland cland cland cland arous arous cland cland cland cland cland cland cland cland cland cland cland cland cland cland arous vandal- ornate panor cland cland cland cland cland cland cland panor---- panor cland cland cland cland arous cland arous cland-------- underest cland cland cland panor---- engraved cland cland cland cland cland cland cland arous cland cland cland cland cland cland cland cland arous cland cland cland cland cland panor--- cland cland cland cland cland cland arous cland ornate",
+  "parsed_events": [],
+  "parsed_events_with_ts": [],
+  "frame_times": [
+    0.0,
+    9.505687375,
+    19.01137475,
+    28.517062125000002,
+    38.0227495,
+    47.528436875000004,
+    57.034124250000005,
+    66.539811625,
+    76.045499,
+    85.55118637500001,
+    95.05687375000001,
+    104.562561125,
+    114.06824850000001,
+    123.57393587500002,
+    133.07962325,
+    142.585310625
+  ],
+  "video_id": "TVSUM_32",
+  "model_name": "HuggingFaceTB/SmolVLM2-2.2B-Instruct",
+  "strategy_name": "smol_segment_b",
+  "prompt_key": "prompt_b"
+}

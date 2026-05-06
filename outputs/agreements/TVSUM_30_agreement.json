@@ -1,0 +1,8 @@
+{
+  "video_id": "TVSUM_30",
+  "annotator_a": "annotator1_30",
+  "annotator_b": "annotator2_30",
+  "n_aligned_pairs": 3,
+  "mean_temporal_iou": 0.6428637073798364,
+  "cohens_kappa_subjectivity": 1.0
+}

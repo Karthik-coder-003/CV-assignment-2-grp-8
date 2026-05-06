@@ -1,0 +1,26 @@
+video_id,method,query,query_length,best_iou,failure_type,matched_gt
+TVSUM_29,Moment-DETR,The host introduces the Chinese New Year parade in Vancouver's Chinatown on Feb 10th,14,0.057971014492753624,missed_or_bad_boundary,A traditional dragon dance moves through the streets along the main parade route
+TVSUM_29,Moment-DETR,the moment when the host introduces the chinese new year parade in vancouver's chinatown on feb 10th,17,0.057971014492753624,missed_or_bad_boundary,A traditional dragon dance moves through the streets along the main parade route
+TVSUM_29,Moment-DETR,video segment showing the host introduces the chinese new year parade in vancouver's chinatown on feb 10th,17,0.1111111111111111,missed_or_bad_boundary,A group of dancers performs an elegant walking procession
+TVSUM_29,Moment-DETR,the event in which the host introduces the chinese new year parade in vancouver's chinatown on feb 10th,18,0.0,missed_or_bad_boundary,
+TVSUM_29,Moment-DETR,a scene where the host introduces the chinese new year parade in vancouver's chinatown on feb 10th,17,0.046511627906976744,missed_or_bad_boundary,"The host captures the vibe, highlights the energy and the historical depth of the event"
+TVSUM_29,Moment-DETR,a scene where a traditional dragon dance moves through the streets along the main parade route,16,0.0,missed_or_bad_boundary,
+TVSUM_29,Moment-DETR,A traditional dragon dance moves through the streets along the main parade route,13,0.0,missed_or_bad_boundary,
+TVSUM_29,Moment-DETR,video segment showing a traditional dragon dance moves through the streets along the main parade route,16,0.0,missed_or_bad_boundary,
+TVSUM_29,Moment-DETR,the moment when a traditional dragon dance moves through the streets along the main parade route,16,0.0,missed_or_bad_boundary,
+TVSUM_29,Moment-DETR,the event in which a traditional dragon dance moves through the streets along the main parade route,17,0.0,missed_or_bad_boundary,
+TVSUM_29,Moment-DETR,video segment showing a group of dancers performs an elegant walking procession,12,0.0,missed_or_bad_boundary,
+TVSUM_29,Moment-DETR,the event in which a group of dancers performs an elegant walking procession,13,0.0,missed_or_bad_boundary,
+TVSUM_29,Moment-DETR,the moment when a group of dancers performs an elegant walking procession,12,0.1111111111111111,missed_or_bad_boundary,A group of dancers performs an elegant walking procession
+TVSUM_29,Moment-DETR,a scene where a group of dancers performs an elegant walking procession,12,0.0,missed_or_bad_boundary,
+TVSUM_29,Moment-DETR,A group of dancers performs an elegant walking procession,9,0.07547169811320754,missed_or_bad_boundary,A dance crew performs formation using traditional Chinese hand fans
+TVSUM_29,Moment-DETR,video segment showing a dance crew performs formation using traditional chinese hand fans,13,0.0,missed_or_bad_boundary,
+TVSUM_29,Moment-DETR,the event in which a dance crew performs formation using traditional chinese hand fans,14,0.0,missed_or_bad_boundary,
+TVSUM_29,Moment-DETR,A dance crew performs formation using traditional Chinese hand fans,10,0.0,missed_or_bad_boundary,
+TVSUM_29,Moment-DETR,the moment when a dance crew performs formation using traditional chinese hand fans,13,0.0,missed_or_bad_boundary,
+TVSUM_29,Moment-DETR,a scene where a dance crew performs formation using traditional chinese hand fans,13,0.0,missed_or_bad_boundary,
+TVSUM_29,Moment-DETR,"the moment when the host captures the vibe, highlights the energy and the historical depth of the event",18,0.0,missed_or_bad_boundary,
+TVSUM_29,Moment-DETR,"The host captures the vibe, highlights the energy and the historical depth of the event",15,0.057971014492753624,missed_or_bad_boundary,A traditional dragon dance moves through the streets along the main parade route
+TVSUM_29,Moment-DETR,"video segment showing the host captures the vibe, highlights the energy and the historical depth of the event",18,0.1111111111111111,missed_or_bad_boundary,A group of dancers performs an elegant walking procession
+TVSUM_29,Moment-DETR,"a scene where the host captures the vibe, highlights the energy and the historical depth of the event",18,0.0,missed_or_bad_boundary,
+TVSUM_29,Moment-DETR,"the event in which the host captures the vibe, highlights the energy and the historical depth of the event",19,0.046511627906976744,missed_or_bad_boundary,"The host captures the vibe, highlights the energy and the historical depth of the event"
