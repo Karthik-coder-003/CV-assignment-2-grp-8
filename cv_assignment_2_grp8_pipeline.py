@@ -99,8 +99,15 @@ def save_csv(rows, path):
     return df
 
 def mmss_to_sec(text):
-    mm, ss = text.strip().split(":")
-    return int(mm) * 60 + int(ss)
+    parts = text.strip().split(":")
+    if len(parts) == 3:
+        # HH:MM:SS
+        return int(parts[0]) * 3600 + int(parts[1]) * 60 + int(parts[2])
+    elif len(parts) == 2:
+        # MM:SS or M:SS
+        return int(parts[0]) * 60 + int(parts[1])
+    else:
+        raise ValueError(f"Unrecognised timestamp format: {text}")
 
 def sec_to_mmss(seconds):
     seconds = max(0, float(seconds))
@@ -120,7 +127,7 @@ def ffprobe_duration(video_path):
 # CELL 5 – Annotation Loading
 # ─────────────────────────────────────────────
 ANNOT_LINE = re.compile(
-    r"^(.*?),\s*(\d{2}:\d{2})\s*-\s*(\d{2}:\d{2})\s*,\s*(-?2|-?1|0|1|2)\s*$"
+    r"^(.*?),\s*(\d{1,2}:\d{2}(?::\d{2})?)\s*-\s*(\d{1,2}:\d{2}(?::\d{2})?)\s*,\s*(-?2|-?1|0|1|2)\s*$"
 )
 
 def parse_annotation_file(path):

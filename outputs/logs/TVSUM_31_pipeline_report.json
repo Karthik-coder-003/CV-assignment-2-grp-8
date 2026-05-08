@@ -2,11 +2,15 @@
   "video_id": "TVSUM_31",
   "agreement": {
     "video_id": "TVSUM_31",
-    "error": "Empty annotations or no matcher"
+    "annotator_a": "annotator1_31",
+    "annotator_b": "annotator2_31",
+    "n_aligned_pairs": 3,
+    "mean_temporal_iou": 0.3333333333333333,
+    "cohens_kappa_subjectivity": 0.3999999999999999
   },
   "n_candidate_events": 8,
   "summary_info": {
-    "summary_path": "/Users/ratrag/Library/CloudStorage/OneDrive-Personal/Maastricht Study/Semester 1/CV/Assignment/Second assignment/CV_assignment_2_grp_8/outputs/summaries/TVSUM_31_summary.mp4",
+    "summary_path": "/Users/tinayemawocha/Documents/UM/CV2/CV_assignment_2_grp_8/outputs/summaries/TVSUM_31_summary.mp4",
     "n_clips": 7
   }
 }

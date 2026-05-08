@@ -1,25 +1,7 @@
 [
   {
-    "start": 40.0,
-    "end": 44.0,
-    "score": 0.01,
-    "query": "the moment when the host talks about the 'bike friendly cities' project, a european initiative across the uk, netherlands, france and belgium, where cities held bike rides in summer 2013",
-    "note": "placeholder – replace with real Moment-DETR predictor",
-    "event": "The host talks about the 'Bike Friendly Cities' project, a European initiative across the UK, Netherlands, France and Belgium, where cities held bike rides in summer 2013",
-    "backend": "Moment-DETR"
-  },
-  {
-    "start": 59.0,
-    "end": 63.0,
-    "score": 0.01,
-    "query": "a scene where the host talks about the 'bike friendly cities' project, a european initiative across the uk, netherlands, france and belgium, where cities held bike rides in summer 2013",
-    "note": "placeholder – replace with real Moment-DETR predictor",
-    "event": "The host talks about the 'Bike Friendly Cities' project, a European initiative across the UK, Netherlands, France and Belgium, where cities held bike rides in summer 2013",
-    "backend": "Moment-DETR"
-  },
-  {
-    "start": 116.0,
-    "end": 120.0,
+    "start": 43.0,
+    "end": 48.0,
     "score": 0.01,
     "query": "The host talks about the 'Bike Friendly Cities' project, a European initiative across the UK, Netherlands, France and Belgium, where cities held bike rides in summer 2013",
     "note": "placeholder – replace with real Moment-DETR predictor",
@@ -27,8 +9,17 @@
     "backend": "Moment-DETR"
   },
   {
-    "start": 135.0,
-    "end": 139.0,
+    "start": 109.0,
+    "end": 113.0,
+    "score": 0.01,
+    "query": "the moment when the host talks about the 'bike friendly cities' project, a european initiative across the uk, netherlands, france and belgium, where cities held bike rides in summer 2013",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "The host talks about the 'Bike Friendly Cities' project, a European initiative across the UK, Netherlands, France and Belgium, where cities held bike rides in summer 2013",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 138.0,
+    "end": 142.0,
     "score": 0.01,
     "query": "the event in which the host talks about the 'bike friendly cities' project, a european initiative across the uk, netherlands, france and belgium, where cities held bike rides in summer 2013",
     "note": "placeholder – replace with real Moment-DETR predictor",
@@ -36,44 +27,17 @@
     "backend": "Moment-DETR"
   },
   {
-    "start": 148.0,
-    "end": 152.0,
+    "start": 161.0,
+    "end": 165.0,
     "score": 0.01,
-    "query": "video segment showing the host talks about the 'bike friendly cities' project, a european initiative across the uk, netherlands, france and belgium, where cities held bike rides in summer 2013",
+    "query": "a scene where the host talks about the 'bike friendly cities' project, a european initiative across the uk, netherlands, france and belgium, where cities held bike rides in summer 2013",
     "note": "placeholder – replace with real Moment-DETR predictor",
     "event": "The host talks about the 'Bike Friendly Cities' project, a European initiative across the UK, Netherlands, France and Belgium, where cities held bike rides in summer 2013",
     "backend": "Moment-DETR"
   },
   {
-    "start": 24.0,
-    "end": 28.0,
-    "score": 0.01,
-    "query": "video segment showing commuters share how cycling helps them connect with new people, stay active and support the environment",
-    "note": "placeholder – replace with real Moment-DETR predictor",
-    "event": "Commuters share how cycling helps them connect with new people, stay active and support the environment",
-    "backend": "Moment-DETR"
-  },
-  {
-    "start": 43.0,
-    "end": 47.0,
-    "score": 0.01,
-    "query": "Commuters share how cycling helps them connect with new people, stay active and support the environment",
-    "note": "placeholder – replace with real Moment-DETR predictor",
-    "event": "Commuters share how cycling helps them connect with new people, stay active and support the environment",
-    "backend": "Moment-DETR"
-  },
-  {
-    "start": 78.0,
-    "end": 82.0,
-    "score": 0.01,
-    "query": "a scene where commuters share how cycling helps them connect with new people, stay active and support the environment",
-    "note": "placeholder – replace with real Moment-DETR predictor",
-    "event": "Commuters share how cycling helps them connect with new people, stay active and support the environment",
-    "backend": "Moment-DETR"
-  },
-  {
-    "start": 95.0,
-    "end": 99.0,
+    "start": 8.0,
+    "end": 12.0,
     "score": 0.01,
     "query": "the moment when commuters share how cycling helps them connect with new people, stay active and support the environment",
     "note": "placeholder – replace with real Moment-DETR predictor",
@@ -81,8 +45,35 @@
     "backend": "Moment-DETR"
   },
   {
-    "start": 146.0,
-    "end": 150.0,
+    "start": 41.0,
+    "end": 45.0,
+    "score": 0.01,
+    "query": "a scene where commuters share how cycling helps them connect with new people, stay active and support the environment",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "Commuters share how cycling helps them connect with new people, stay active and support the environment",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 112.0,
+    "end": 116.0,
+    "score": 0.01,
+    "query": "Commuters share how cycling helps them connect with new people, stay active and support the environment",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "Commuters share how cycling helps them connect with new people, stay active and support the environment",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 137.0,
+    "end": 141.0,
+    "score": 0.01,
+    "query": "video segment showing commuters share how cycling helps them connect with new people, stay active and support the environment",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "Commuters share how cycling helps them connect with new people, stay active and support the environment",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 151.0,
+    "end": 155.0,
     "score": 0.01,
     "query": "the event in which commuters share how cycling helps them connect with new people, stay active and support the environment",
     "note": "placeholder – replace with real Moment-DETR predictor",
@@ -90,35 +81,8 @@
     "backend": "Moment-DETR"
   },
   {
-    "start": 1.0,
-    "end": 5.0,
-    "score": 0.01,
-    "query": "a scene where local riders explain that cycling is a fast, fun, eco-friendly and affordable",
-    "note": "placeholder – replace with real Moment-DETR predictor",
-    "event": "Local riders explain that cycling is a fast, fun, eco-friendly and affordable",
-    "backend": "Moment-DETR"
-  },
-  {
-    "start": 35.0,
-    "end": 39.0,
-    "score": 0.01,
-    "query": "video segment showing local riders explain that cycling is a fast, fun, eco-friendly and affordable",
-    "note": "placeholder – replace with real Moment-DETR predictor",
-    "event": "Local riders explain that cycling is a fast, fun, eco-friendly and affordable",
-    "backend": "Moment-DETR"
-  },
-  {
-    "start": 49.0,
-    "end": 54.0,
-    "score": 0.01,
-    "query": "the moment when local riders explain that cycling is a fast, fun, eco-friendly and affordable",
-    "note": "placeholder – replace with real Moment-DETR predictor",
-    "event": "Local riders explain that cycling is a fast, fun, eco-friendly and affordable",
-    "backend": "Moment-DETR"
-  },
-  {
-    "start": 102.0,
-    "end": 106.0,
+    "start": 18.0,
+    "end": 22.0,
     "score": 0.01,
     "query": "Local riders explain that cycling is a fast, fun, eco-friendly and affordable",
     "note": "placeholder – replace with real Moment-DETR predictor",
@@ -126,26 +90,53 @@
     "backend": "Moment-DETR"
   },
   {
-    "start": 7.0,
-    "end": 11.0,
+    "start": 65.0,
+    "end": 69.0,
     "score": 0.01,
-    "query": "the event in which a belgium commuter describes the bike as the best way to explore the city and stay inspired",
+    "query": "a scene where local riders explain that cycling is a fast, fun, eco-friendly and affordable",
     "note": "placeholder – replace with real Moment-DETR predictor",
-    "event": "A Belgium commuter describes the bike as the best way to explore the city and stay inspired",
+    "event": "Local riders explain that cycling is a fast, fun, eco-friendly and affordable",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 74.0,
+    "end": 78.0,
+    "score": 0.01,
+    "query": "the event in which local riders explain that cycling is a fast, fun, eco-friendly and affordable",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "Local riders explain that cycling is a fast, fun, eco-friendly and affordable",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 125.0,
+    "end": 129.0,
+    "score": 0.01,
+    "query": "video segment showing local riders explain that cycling is a fast, fun, eco-friendly and affordable",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "Local riders explain that cycling is a fast, fun, eco-friendly and affordable",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 159.0,
+    "end": 163.0,
+    "score": 0.01,
+    "query": "the moment when local riders explain that cycling is a fast, fun, eco-friendly and affordable",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "Local riders explain that cycling is a fast, fun, eco-friendly and affordable",
     "backend": "Moment-DETR"
   },
   {
     "start": 59.0,
     "end": 63.0,
     "score": 0.01,
-    "query": "A Belgium commuter describes the bike as the best way to explore the city and stay inspired",
+    "query": "video segment showing a belgium commuter describes the bike as the best way to explore the city and stay inspired",
     "note": "placeholder – replace with real Moment-DETR predictor",
     "event": "A Belgium commuter describes the bike as the best way to explore the city and stay inspired",
     "backend": "Moment-DETR"
   },
   {
-    "start": 78.0,
-    "end": 85.0,
+    "start": 91.0,
+    "end": 95.0,
     "score": 0.01,
     "query": "the moment when a belgium commuter describes the bike as the best way to explore the city and stay inspired",
     "note": "placeholder – replace with real Moment-DETR predictor",
@@ -153,8 +144,17 @@
     "backend": "Moment-DETR"
   },
   {
+    "start": 99.0,
+    "end": 103.0,
+    "score": 0.01,
+    "query": "A Belgium commuter describes the bike as the best way to explore the city and stay inspired",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "A Belgium commuter describes the bike as the best way to explore the city and stay inspired",
+    "backend": "Moment-DETR"
+  },
+  {
     "start": 125.0,
-    "end": 129.0,
+    "end": 130.0,
     "score": 0.01,
     "query": "a scene where a belgium commuter describes the bike as the best way to explore the city and stay inspired",
     "note": "placeholder – replace with real Moment-DETR predictor",

@@ -1,25 +1,7 @@
 [
   {
-    "start": 19.0,
-    "end": 23.0,
-    "score": 0.01,
-    "query": "the moment when a student at pabna bus terminal kicks off the flash mob by picking up a hat and throwing a ball, branding it as the biggest event of the year — icc world t20 2014",
-    "note": "placeholder – replace with real Moment-DETR predictor",
-    "event": "A student at Pabna bus terminal kicks off the flash mob by picking up a hat and throwing a ball, branding it as the biggest event of the year — ICC World T20 2014",
-    "backend": "Moment-DETR"
-  },
-  {
-    "start": 58.0,
-    "end": 62.0,
-    "score": 0.01,
-    "query": "the event in which a student at pabna bus terminal kicks off the flash mob by picking up a hat and throwing a ball, branding it as the biggest event of the year — icc world t20 2014",
-    "note": "placeholder – replace with real Moment-DETR predictor",
-    "event": "A student at Pabna bus terminal kicks off the flash mob by picking up a hat and throwing a ball, branding it as the biggest event of the year — ICC World T20 2014",
-    "backend": "Moment-DETR"
-  },
-  {
-    "start": 88.0,
-    "end": 92.0,
+    "start": 69.0,
+    "end": 73.0,
     "score": 0.01,
     "query": "video segment showing a student at pabna bus terminal kicks off the flash mob by picking up a hat and throwing a ball, branding it as the biggest event of the year — icc world t20 2014",
     "note": "placeholder – replace with real Moment-DETR predictor",
@@ -27,8 +9,8 @@
     "backend": "Moment-DETR"
   },
   {
-    "start": 96.0,
-    "end": 100.0,
+    "start": 76.0,
+    "end": 80.0,
     "score": 0.01,
     "query": "A student at Pabna bus terminal kicks off the flash mob by picking up a hat and throwing a ball, branding it as the biggest event of the year — ICC World T20 2014",
     "note": "placeholder – replace with real Moment-DETR predictor",
@@ -36,26 +18,26 @@
     "backend": "Moment-DETR"
   },
   {
-    "start": 109.0,
-    "end": 113.0,
+    "start": 81.0,
+    "end": 85.0,
     "score": 0.01,
-    "query": "a scene where a student at pabna bus terminal kicks off the flash mob by picking up a hat and throwing a ball, branding it as the biggest event of the year — icc world t20 2014",
+    "query": "the event in which a student at pabna bus terminal kicks off the flash mob by picking up a hat and throwing a ball, branding it as the biggest event of the year — icc world t20 2014",
     "note": "placeholder – replace with real Moment-DETR predictor",
     "event": "A student at Pabna bus terminal kicks off the flash mob by picking up a hat and throwing a ball, branding it as the biggest event of the year — ICC World T20 2014",
     "backend": "Moment-DETR"
   },
   {
-    "start": 19.0,
-    "end": 23.0,
+    "start": 119.0,
+    "end": 123.0,
     "score": 0.01,
-    "query": "the event in which music starts and a group of pust students begin a dance, drawing a massive crowd at the terminal",
+    "query": "the moment when a student at pabna bus terminal kicks off the flash mob by picking up a hat and throwing a ball, branding it as the biggest event of the year — icc world t20 2014",
     "note": "placeholder – replace with real Moment-DETR predictor",
-    "event": "Music starts and a group of PUST students begin a dance, drawing a massive crowd at the terminal",
+    "event": "A student at Pabna bus terminal kicks off the flash mob by picking up a hat and throwing a ball, branding it as the biggest event of the year — ICC World T20 2014",
     "backend": "Moment-DETR"
   },
   {
-    "start": 40.0,
-    "end": 44.0,
+    "start": 31.0,
+    "end": 35.0,
     "score": 0.01,
     "query": "a scene where music starts and a group of pust students begin a dance, drawing a massive crowd at the terminal",
     "note": "placeholder – replace with real Moment-DETR predictor",
@@ -63,26 +45,17 @@
     "backend": "Moment-DETR"
   },
   {
-    "start": 69.0,
-    "end": 73.0,
+    "start": 63.0,
+    "end": 67.0,
     "score": 0.01,
-    "query": "video segment showing music starts and a group of pust students begin a dance, drawing a massive crowd at the terminal",
+    "query": "the event in which music starts and a group of pust students begin a dance, drawing a massive crowd at the terminal",
     "note": "placeholder – replace with real Moment-DETR predictor",
     "event": "Music starts and a group of PUST students begin a dance, drawing a massive crowd at the terminal",
     "backend": "Moment-DETR"
   },
   {
-    "start": 97.0,
-    "end": 101.0,
-    "score": 0.01,
-    "query": "the moment when music starts and a group of pust students begin a dance, drawing a massive crowd at the terminal",
-    "note": "placeholder – replace with real Moment-DETR predictor",
-    "event": "Music starts and a group of PUST students begin a dance, drawing a massive crowd at the terminal",
-    "backend": "Moment-DETR"
-  },
-  {
-    "start": 122.0,
-    "end": 126.0,
+    "start": 72.0,
+    "end": 76.0,
     "score": 0.01,
     "query": "Music starts and a group of PUST students begin a dance, drawing a massive crowd at the terminal",
     "note": "placeholder – replace with real Moment-DETR predictor",
@@ -90,17 +63,26 @@
     "backend": "Moment-DETR"
   },
   {
-    "start": 11.0,
-    "end": 17.0,
+    "start": 78.0,
+    "end": 82.0,
     "score": 0.01,
-    "query": "video segment showing a local girl joins the performance and leads the dance, showcasing the community's excitement for the tournament",
+    "query": "video segment showing music starts and a group of pust students begin a dance, drawing a massive crowd at the terminal",
     "note": "placeholder – replace with real Moment-DETR predictor",
-    "event": "A local girl joins the performance and leads the dance, showcasing the community's excitement for the tournament",
+    "event": "Music starts and a group of PUST students begin a dance, drawing a massive crowd at the terminal",
     "backend": "Moment-DETR"
   },
   {
-    "start": 49.0,
-    "end": 53.0,
+    "start": 88.0,
+    "end": 92.0,
+    "score": 0.01,
+    "query": "the moment when music starts and a group of pust students begin a dance, drawing a massive crowd at the terminal",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "Music starts and a group of PUST students begin a dance, drawing a massive crowd at the terminal",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 73.0,
+    "end": 77.0,
     "score": 0.01,
     "query": "a scene where a local girl joins the performance and leads the dance, showcasing the community's excitement for the tournament",
     "note": "placeholder – replace with real Moment-DETR predictor",
@@ -108,17 +90,26 @@
     "backend": "Moment-DETR"
   },
   {
-    "start": 79.0,
-    "end": 83.0,
+    "start": 81.0,
+    "end": 85.0,
     "score": 0.01,
-    "query": "the event in which a local girl joins the performance and leads the dance, showcasing the community's excitement for the tournament",
+    "query": "video segment showing a local girl joins the performance and leads the dance, showcasing the community's excitement for the tournament",
     "note": "placeholder – replace with real Moment-DETR predictor",
     "event": "A local girl joins the performance and leads the dance, showcasing the community's excitement for the tournament",
     "backend": "Moment-DETR"
   },
   {
-    "start": 98.0,
-    "end": 102.0,
+    "start": 115.0,
+    "end": 119.0,
+    "score": 0.01,
+    "query": "A local girl joins the performance and leads the dance, showcasing the community's excitement for the tournament",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "A local girl joins the performance and leads the dance, showcasing the community's excitement for the tournament",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 127.0,
+    "end": 131.0,
     "score": 0.01,
     "query": "the moment when a local girl joins the performance and leads the dance, showcasing the community's excitement for the tournament",
     "note": "placeholder – replace with real Moment-DETR predictor",
@@ -126,8 +117,17 @@
     "backend": "Moment-DETR"
   },
   {
-    "start": 14.0,
-    "end": 18.0,
+    "start": 142.0,
+    "end": 146.0,
+    "score": 0.01,
+    "query": "the event in which a local girl joins the performance and leads the dance, showcasing the community's excitement for the tournament",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "A local girl joins the performance and leads the dance, showcasing the community's excitement for the tournament",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 0.0,
+    "end": 4.0,
     "score": 0.01,
     "query": "the moment when a group of people play cricket in the crowd, bringing the celebration to its peak energy",
     "note": "placeholder – replace with real Moment-DETR predictor",
@@ -135,17 +135,8 @@
     "backend": "Moment-DETR"
   },
   {
-    "start": 55.0,
-    "end": 59.0,
-    "score": 0.01,
-    "query": "video segment showing a group of people play cricket in the crowd, bringing the celebration to its peak energy",
-    "note": "placeholder – replace with real Moment-DETR predictor",
-    "event": "A group of people play cricket in the crowd, bringing the celebration to its peak energy",
-    "backend": "Moment-DETR"
-  },
-  {
-    "start": 68.0,
-    "end": 72.0,
+    "start": 67.0,
+    "end": 71.0,
     "score": 0.01,
     "query": "a scene where a group of people play cricket in the crowd, bringing the celebration to its peak energy",
     "note": "placeholder – replace with real Moment-DETR predictor",
@@ -153,8 +144,26 @@
     "backend": "Moment-DETR"
   },
   {
-    "start": 125.0,
-    "end": 133.0,
+    "start": 72.0,
+    "end": 76.0,
+    "score": 0.01,
+    "query": "video segment showing a group of people play cricket in the crowd, bringing the celebration to its peak energy",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "A group of people play cricket in the crowd, bringing the celebration to its peak energy",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 107.0,
+    "end": 111.0,
+    "score": 0.01,
+    "query": "the event in which a group of people play cricket in the crowd, bringing the celebration to its peak energy",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "A group of people play cricket in the crowd, bringing the celebration to its peak energy",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 114.0,
+    "end": 118.0,
     "score": 0.01,
     "query": "A group of people play cricket in the crowd, bringing the celebration to its peak energy",
     "note": "placeholder – replace with real Moment-DETR predictor",
@@ -162,8 +171,8 @@
     "backend": "Moment-DETR"
   },
   {
-    "start": 30.0,
-    "end": 35.0,
+    "start": 3.0,
+    "end": 7.0,
     "score": 0.01,
     "query": "A karate group integrates martial arts moves into the routine, adding unique energy to the celebration",
     "note": "placeholder – replace with real Moment-DETR predictor",
@@ -171,8 +180,17 @@
     "backend": "Moment-DETR"
   },
   {
-    "start": 55.0,
-    "end": 59.0,
+    "start": 21.0,
+    "end": 26.0,
+    "score": 0.01,
+    "query": "a scene where a karate group integrates martial arts moves into the routine, adding unique energy to the celebration",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "A karate group integrates martial arts moves into the routine, adding unique energy to the celebration",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 88.0,
+    "end": 92.0,
     "score": 0.01,
     "query": "the event in which a karate group integrates martial arts moves into the routine, adding unique energy to the celebration",
     "note": "placeholder – replace with real Moment-DETR predictor",
@@ -180,8 +198,8 @@
     "backend": "Moment-DETR"
   },
   {
-    "start": 63.0,
-    "end": 67.0,
+    "start": 95.0,
+    "end": 99.0,
     "score": 0.01,
     "query": "video segment showing a karate group integrates martial arts moves into the routine, adding unique energy to the celebration",
     "note": "placeholder – replace with real Moment-DETR predictor",
@@ -189,53 +207,8 @@
     "backend": "Moment-DETR"
   },
   {
-    "start": 83.0,
-    "end": 87.0,
-    "score": 0.01,
-    "query": "the moment when a karate group integrates martial arts moves into the routine, adding unique energy to the celebration",
-    "note": "placeholder – replace with real Moment-DETR predictor",
-    "event": "A karate group integrates martial arts moves into the routine, adding unique energy to the celebration",
-    "backend": "Moment-DETR"
-  },
-  {
-    "start": 24.0,
-    "end": 28.0,
-    "score": 0.01,
-    "query": "a scene where the entire crowd joins the dance in a massive celebration, capturing the vibrant atmosphere of the city",
-    "note": "placeholder – replace with real Moment-DETR predictor",
-    "event": "The entire crowd joins the dance in a massive celebration, capturing the vibrant atmosphere of the city",
-    "backend": "Moment-DETR"
-  },
-  {
-    "start": 56.0,
-    "end": 60.0,
-    "score": 0.01,
-    "query": "The entire crowd joins the dance in a massive celebration, capturing the vibrant atmosphere of the city",
-    "note": "placeholder – replace with real Moment-DETR predictor",
-    "event": "The entire crowd joins the dance in a massive celebration, capturing the vibrant atmosphere of the city",
-    "backend": "Moment-DETR"
-  },
-  {
-    "start": 79.0,
-    "end": 83.0,
-    "score": 0.01,
-    "query": "video segment showing the entire crowd joins the dance in a massive celebration, capturing the vibrant atmosphere of the city",
-    "note": "placeholder – replace with real Moment-DETR predictor",
-    "event": "The entire crowd joins the dance in a massive celebration, capturing the vibrant atmosphere of the city",
-    "backend": "Moment-DETR"
-  },
-  {
-    "start": 111.0,
-    "end": 115.0,
-    "score": 0.01,
-    "query": "the moment when the entire crowd joins the dance in a massive celebration, capturing the vibrant atmosphere of the city",
-    "note": "placeholder – replace with real Moment-DETR predictor",
-    "event": "The entire crowd joins the dance in a massive celebration, capturing the vibrant atmosphere of the city",
-    "backend": "Moment-DETR"
-  },
-  {
-    "start": 122.0,
-    "end": 126.0,
+    "start": 14.0,
+    "end": 18.0,
     "score": 0.01,
     "query": "the event in which the entire crowd joins the dance in a massive celebration, capturing the vibrant atmosphere of the city",
     "note": "placeholder – replace with real Moment-DETR predictor",
@@ -243,26 +216,62 @@
     "backend": "Moment-DETR"
   },
   {
-    "start": 56.0,
-    "end": 60.0,
+    "start": 27.0,
+    "end": 31.0,
     "score": 0.01,
-    "query": "video segment showing onlookers film the moment as performers conclude the flash mob by proudly waving the national flag",
+    "query": "a scene where the entire crowd joins the dance in a massive celebration, capturing the vibrant atmosphere of the city",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "The entire crowd joins the dance in a massive celebration, capturing the vibrant atmosphere of the city",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 65.0,
+    "end": 69.0,
+    "score": 0.01,
+    "query": "The entire crowd joins the dance in a massive celebration, capturing the vibrant atmosphere of the city",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "The entire crowd joins the dance in a massive celebration, capturing the vibrant atmosphere of the city",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 115.0,
+    "end": 119.0,
+    "score": 0.01,
+    "query": "the moment when the entire crowd joins the dance in a massive celebration, capturing the vibrant atmosphere of the city",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "The entire crowd joins the dance in a massive celebration, capturing the vibrant atmosphere of the city",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 129.0,
+    "end": 133.0,
+    "score": 0.01,
+    "query": "video segment showing the entire crowd joins the dance in a massive celebration, capturing the vibrant atmosphere of the city",
+    "note": "placeholder – replace with real Moment-DETR predictor",
+    "event": "The entire crowd joins the dance in a massive celebration, capturing the vibrant atmosphere of the city",
+    "backend": "Moment-DETR"
+  },
+  {
+    "start": 84.0,
+    "end": 88.0,
+    "score": 0.01,
+    "query": "Onlookers film the moment as performers conclude the flash mob by proudly waving the national flag",
     "note": "placeholder – replace with real Moment-DETR predictor",
     "event": "Onlookers film the moment as performers conclude the flash mob by proudly waving the national flag",
     "backend": "Moment-DETR"
   },
   {
-    "start": 83.0,
-    "end": 87.0,
+    "start": 113.0,
+    "end": 117.0,
     "score": 0.01,
-    "query": "a scene where onlookers film the moment as performers conclude the flash mob by proudly waving the national flag",
+    "query": "the event in which onlookers film the moment as performers conclude the flash mob by proudly waving the national flag",
     "note": "placeholder – replace with real Moment-DETR predictor",
     "event": "Onlookers film the moment as performers conclude the flash mob by proudly waving the national flag",
     "backend": "Moment-DETR"
   },
   {
-    "start": 89.0,
-    "end": 95.0,
+    "start": 122.0,
+    "end": 126.0,
     "score": 0.01,
     "query": "the moment when onlookers film the moment as performers conclude the flash mob by proudly waving the national flag",
     "note": "placeholder – replace with real Moment-DETR predictor",
@@ -270,10 +279,10 @@
     "backend": "Moment-DETR"
   },
   {
-    "start": 142.0,
-    "end": 146.0,
+    "start": 133.0,
+    "end": 137.0,
     "score": 0.01,
-    "query": "the event in which onlookers film the moment as performers conclude the flash mob by proudly waving the national flag",
+    "query": "video segment showing onlookers film the moment as performers conclude the flash mob by proudly waving the national flag",
     "note": "placeholder – replace with real Moment-DETR predictor",
     "event": "Onlookers film the moment as performers conclude the flash mob by proudly waving the national flag",
     "backend": "Moment-DETR"
