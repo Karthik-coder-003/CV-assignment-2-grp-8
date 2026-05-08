@@ -50,19 +50,6 @@ temp/
 # Jupyter
 .ipynb_checkpoints/
 *.ipynb
->>>>>>> c1a0d83fbdb4e9d6919617769a4bdb9bea1b5e8d
 
-# OS
-.DS_Store
-Thumbs.db
-
-<<<<<<< HEAD
-# Project specific
-.cache/
-temp/
-=======
-# IDE
-.vscode/
-.idea/
-*.swp
->>>>>>> c1a0d83fbdb4e9d6919617769a4bdb9bea1b5e8d
+# Generated outputs
+outputs/
